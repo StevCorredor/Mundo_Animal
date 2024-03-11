@@ -1,0 +1,5 @@
+LEEME
+
+La página web presentada es un ejercicio académico que busca hacer uso de los comandos de versionamiento de git.
+
+La información fue tomada de la página web CONCEPTO. url: https://concepto.de/clasificacion-de-los-animales
